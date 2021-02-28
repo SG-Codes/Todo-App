@@ -53,5 +53,3 @@ class CreateItem {
         container.removeChild(main);
     }
 }
-
-new CreateItem('Hello World')
